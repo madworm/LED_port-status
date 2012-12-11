@@ -1,11 +1,11 @@
 #!/bin/bash
 
 for file in `ls *.g[!v]?`; do
-gerbv $file -o $file.png --dpi=300x300 -a --export=png
+gerbv $file -o ./PNGs/$file.png --dpi=300x300 -a --export=png
 done
 
 for file in `ls *.drl`; do
-gerbv $file -o $file.png --dpi=300x300 -a --export=png
+gerbv $file -o ./PNGs/$file.png --dpi=300x300 -a --export=png
 done
 
 for file in `ls ./gerbv/*.gvp`; do
@@ -16,5 +16,4 @@ OUTFILE=${OUTFILE/%.gvp/.png}
 gerbv -p $file -o $OUTFILE --dpi=300x300 -a --export=png
 done
 
-mv *.png ./PNGs
 gwenview ./PNGs/* &
