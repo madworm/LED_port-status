@@ -4,6 +4,9 @@ LED_port-status
 
 LAYOUT FILES: Easily display the status of GPIO lines when using a breadboard.
 
+[![LED_port-status](/gerber_files/PNGs/LED_port-status__front_purple.png)](/gerber_files/PNGs/LED_port-status__front_purple.png)
+[![LED_port-status](/gerber_files/PNGs/LED_port-status__back_purple.png)](/gerber_files/PNGs/LED_port-status__back_purple.png)
+
 
 ---
 
