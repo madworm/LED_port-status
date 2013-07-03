@@ -7,6 +7,12 @@ LAYOUT FILES: Easily display the status of GPIO lines when using a breadboard.
 [![LED_port-status](/dual-mode/gerber_files/PNGs/LED_port-status__front_purple.png)](/dual-mode/gerber_files/PNGs/LED_port-status__front_purple.png)
 [![LED_port-status](/dual-mode/gerber_files/PNGs/LED_port-status__back_purple.png)](/dual-mode/gerber_files/PNGs/LED_port-status__back_purple.png)
 
+[![LED_port-status](/common-anode/gerber_files/PNGs/LED_port-status__front_purple.png)](/common-anode/gerber_files/PNGs/LED_port-status__front_purple.png)
+[![LED_port-status](/common-anode/gerber_files/PNGs/LED_port-status__back_purple.png)](/common-anode/gerber_files/PNGs/LED_port-status__back_purple.png)
+
+[![LED_port-status](/common-cathode/gerber_files/PNGs/LED_port-status__front_purple.png)](/common-cathode/gerber_files/PNGs/LED_port-status__front_purple.png)
+[![LED_port-status](/common-cathode/gerber_files/PNGs/LED_port-status__back_purple.png)](/common-cathode/gerber_files/PNGs/LED_port-status__back_purple.png)
+
 
 ---
 
