@@ -30,7 +30,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:my_parts
-LIBS:LED_port-status-cache
+LIBS:LED_port-status-CA-cache
 EELAYER 24 0
 EELAYER END
 $Descr User 8268 5866

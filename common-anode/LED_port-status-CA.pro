@@ -1,4 +1,4 @@
-update=Wed 03 Jul 2013 02:17:21 AM CEST
+update=Wed 03 Jul 2013 02:10:26 AM CEST
 version=1
 last_client=pcbnew
 [general]
@@ -50,7 +50,7 @@ LibName30=valves
 LibName31=/home/robert/Arduino/KiCAD/LIBS/my_parts
 [pcbnew]
 version=1
-LastNetListRead=LED_port-status.net
+LastNetListRead=LED_port-status-CA.net
 UseCmpFile=1
 PadDrill=0
 PadDrillOvalY=0
