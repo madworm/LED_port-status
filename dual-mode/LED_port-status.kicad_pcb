@@ -1,4 +1,4 @@
-(kicad_pcb (version 3) (host pcbnew "(2014-03-13 BZR 4744)-product")
+(kicad_pcb (version 3) (host pcbnew "(2014-03-23 BZR 4768)-product")
 
   (general
     (links 40)
@@ -188,6 +188,11 @@
       (net 6 N-0000014))
     (pad 4 smd rect (at 1.325 -0.9 180) (size 0.65 1) (layers Back B.Paste B.Mask)
       (net 7 N-0000015))
+    (model smd/resistors/r_cat16-4.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (module MADW__1206*4_resistor_array (layer Back) (tedit 51D32452) (tstamp 5120D39C)
@@ -244,6 +249,11 @@
       (net 2 N-0000010))
     (pad 4 smd rect (at 1.325 -0.9 180) (size 0.65 1) (layers Back B.Paste B.Mask)
       (net 3 N-0000011))
+    (model smd/resistors/r_cat16-4.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (module SIL-9 (layer Front) (tedit 5119141C) (tstamp 50C627EA)
@@ -280,6 +290,11 @@
       (net 6 N-0000014))
     (pad 9 thru_hole circle (at 10.16 0 180) (size 1.65 1.65) (drill 1.016) (layers *.Cu *.Mask F.SilkS)
       (net 7 N-0000015))
+    (model Pin_Headers/Pin_Header_Angled_1x09.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module LOGO (layer Back) (tedit 50C644C4) (tstamp 50C644A8)
@@ -659,6 +674,11 @@
       (net 9 N-0000017))
     (pad 2 smd rect (at 1.04902 0 270) (size 1.19888 1.19888) (layers Front F.Paste F.Mask)
       (net 8 N-0000016))
+    (model ../../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module LED-0805 (layer Front) (tedit 50C63AA4) (tstamp 50C6381D)
@@ -730,6 +750,11 @@
       (net 9 N-0000017))
     (pad 2 smd rect (at 1.04902 0 270) (size 1.19888 1.19888) (layers Front F.Paste F.Mask)
       (net 12 N-000004))
+    (model ../../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module LED-0805 (layer Front) (tedit 50C63A83) (tstamp 50C63801)
@@ -801,6 +826,11 @@
       (net 9 N-0000017))
     (pad 2 smd rect (at 1.04902 0 270) (size 1.19888 1.19888) (layers Front F.Paste F.Mask)
       (net 14 N-000006))
+    (model ../../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module LED-0805 (layer Front) (tedit 50C63A8B) (tstamp 50C637E5)
@@ -872,6 +902,11 @@
       (net 9 N-0000017))
     (pad 2 smd rect (at 1.04902 0 270) (size 1.19888 1.19888) (layers Front F.Paste F.Mask)
       (net 10 N-000002))
+    (model ../../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module LED-0805 (layer Front) (tedit 50C63A91) (tstamp 50C637C9)
@@ -943,6 +978,11 @@
       (net 9 N-0000017))
     (pad 2 smd rect (at 1.04902 0 270) (size 1.19888 1.19888) (layers Front F.Paste F.Mask)
       (net 1 N-000001))
+    (model ../../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module LED-0805 (layer Front) (tedit 50C63A97) (tstamp 50C637AD)
@@ -1014,6 +1054,11 @@
       (net 9 N-0000017))
     (pad 2 smd rect (at 1.04902 0 270) (size 1.19888 1.19888) (layers Front F.Paste F.Mask)
       (net 11 N-000003))
+    (model ../../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module LED-0805 (layer Front) (tedit 50C63A9E) (tstamp 50C63791)
@@ -1085,6 +1130,11 @@
       (net 9 N-0000017))
     (pad 2 smd rect (at 1.04902 0 270) (size 1.19888 1.19888) (layers Front F.Paste F.Mask)
       (net 13 N-000005))
+    (model ../../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module LED-0805 (layer Front) (tedit 51D3230F) (tstamp 50C63775)
@@ -1156,6 +1206,11 @@
       (net 9 N-0000017))
     (pad 2 smd rect (at 1.04902 0 270) (size 1.19888 1.19888) (layers Front F.Paste F.Mask)
       (net 15 N-000007))
+    (model ../../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module LED-0805 (layer Front) (tedit 50C63ABC) (tstamp 50CA96DF)
@@ -1227,6 +1282,11 @@
       (net 8 N-0000016))
     (pad 2 smd rect (at 1.04902 0 270) (size 1.19888 1.19888) (layers Front F.Paste F.Mask)
       (net 9 N-0000017))
+    (model ../../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module LED-0805 (layer Front) (tedit 50C63AC4) (tstamp 50C62A10)
@@ -1298,6 +1358,11 @@
       (net 14 N-000006))
     (pad 2 smd rect (at 1.04902 0 270) (size 1.19888 1.19888) (layers Front F.Paste F.Mask)
       (net 9 N-0000017))
+    (model ../../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module LED-0805 (layer Front) (tedit 50C63ACA) (tstamp 50C62A2C)
@@ -1369,6 +1434,11 @@
       (net 10 N-000002))
     (pad 2 smd rect (at 1.04902 0 270) (size 1.19888 1.19888) (layers Front F.Paste F.Mask)
       (net 9 N-0000017))
+    (model ../../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module LED-0805 (layer Front) (tedit 50C63ACF) (tstamp 50C62A48)
@@ -1440,6 +1510,11 @@
       (net 1 N-000001))
     (pad 2 smd rect (at 1.04902 0 270) (size 1.19888 1.19888) (layers Front F.Paste F.Mask)
       (net 9 N-0000017))
+    (model ../../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module LED-0805 (layer Front) (tedit 50C63AD4) (tstamp 50C62A64)
@@ -1511,6 +1586,11 @@
       (net 11 N-000003))
     (pad 2 smd rect (at 1.04902 0 270) (size 1.19888 1.19888) (layers Front F.Paste F.Mask)
       (net 9 N-0000017))
+    (model ../../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module LED-0805 (layer Front) (tedit 50C63ADB) (tstamp 50C62A80)
@@ -1582,6 +1662,11 @@
       (net 13 N-000005))
     (pad 2 smd rect (at 1.04902 0 270) (size 1.19888 1.19888) (layers Front F.Paste F.Mask)
       (net 9 N-0000017))
+    (model ../../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module LED-0805 (layer Front) (tedit 50C63AE0) (tstamp 50C62914)
@@ -1653,6 +1738,11 @@
       (net 12 N-000004))
     (pad 2 smd rect (at 1.04902 0 270) (size 1.19888 1.19888) (layers Front F.Paste F.Mask)
       (net 9 N-0000017))
+    (model ../../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module LED-0805 (layer Front) (tedit 50C63AE4) (tstamp 50C62A9C)
@@ -1724,6 +1814,11 @@
       (net 15 N-000007))
     (pad 2 smd rect (at 1.04902 0 270) (size 1.19888 1.19888) (layers Front F.Paste F.Mask)
       (net 9 N-0000017))
+    (model ../../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (gr_line (start 102.7938 93.1926) (end 80.01 93.1926) (angle 90) (layer Edge.Cuts) (width 0.15))
